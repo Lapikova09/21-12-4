@@ -1,0 +1,21 @@
+.cont{
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: antiquewhite;
+    height: 700px;
+}
+.removed{
+    display: none;
+}
+.cont-1{
+    display: flex;
+    justify-content: space-between;
+}
+.l{
+    height: 1px;
+    background-color: black;
+    margin-bottom: 10px;
+}
